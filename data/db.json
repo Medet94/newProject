@@ -1,0 +1,123 @@
+{
+  "posts": [
+    {
+      "id": "wdf12",
+      "title": {
+        "requestId": "8c5Q1pB1j2wsOq_dn1pF3",
+        "signal": {}
+      },
+      "views": 100
+    },
+    {
+      "id": "rth45",
+      "title": "Angular",
+      "views": 200
+    },
+    {
+      "id": "a8fdf0a1-41b8-49d4-9922-4e4fd848fa21",
+      "title": "Restart",
+      "views": 58.46563736720911
+    },
+    {
+      "id": "4f683218-dd61-49e0-ad89-2db04d4e700d",
+      "title": "Java Script",
+      "views": 13.109213312381707
+    },
+    {
+      "id": "2f63",
+      "title": "sdvs",
+      "views": 6.231983529469387
+    },
+    {
+      "id": "96deeb98-88db-421a-aafb-b5ed49a521b3",
+      "title": "Java",
+      "views": 89.90574251081074
+    },
+    {
+      "id": "b2c8a12d-3f8b-4b7b-a502-e8b014b124fd",
+      "title": "Area",
+      "views": 91.057807116499
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about React ",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about React",
+      "postId": "1"
+    },
+    {
+      "id": "3",
+      "text": "another comment about Angular",
+      "postId": "2"
+    },
+    {
+      "id": "4",
+      "text": "another comment about Angular",
+      "postId": "2"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "year": 1958
+    },
+    {
+      "id": 2,
+      "title": "Fairy tales",
+      "author": "Hans Christian Andersen",
+      "year": 1836
+    },
+    {
+      "id": 3,
+      "title": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "year": 1315
+    },
+    {
+      "id": 4,
+      "title": "The Epic Of Gilgamesh",
+      "author": "Unknown",
+      "year": 1700
+    },
+    {
+      "id": 5,
+      "title": "The Book Of Job",
+      "author": "Unknown",
+      "year": 1600
+    },
+    {
+      "id": 6,
+      "title": "One Thousand and One Nights",
+      "author": "Unknown",
+      "year": 1200
+    },
+    {
+      "id": 7,
+      "title": "Njál's Saga",
+      "author": "Unknown",
+      "year": 1350
+    },
+    {
+      "id": 8,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year": 1813
+    },
+    {
+      "id": 9,
+      "title": "Le Père Goriot",
+      "author": "Honoré de Balzac",
+      "year": 1835
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
